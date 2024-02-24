@@ -22,6 +22,9 @@ h1{
     cursor: pointer;
     background-color: #081b31;
 }
+.end{
+    padding-top: 30px;
+}
 img{
     height: 150px;
     width: 150px;
